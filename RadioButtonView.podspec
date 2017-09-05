@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                       单选按钮
                    DESC
 
-  s.homepage     = "http://EXAMPLE/RadioButtonView"
+  s.homepage     = "https://github.com/terryliuyuqing/RadioButtonView.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
